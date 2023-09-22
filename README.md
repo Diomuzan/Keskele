@@ -1,2 +1,2 @@
-# Battleships
-This is the game Battleships made with HTML, CSS and JavaScript.
+# Keskele
+Keskele is a C# and lastly .NET program.
